@@ -2,9 +2,7 @@
 
 Este repositório contém um simulador em Python de uma **Máquina de Turing Determinística (MTD)** projetada para reconhecer a linguagem formal:
 
-\[
-L = \{a^n b^n \mid n \geq 0\}
-\]
+L = { aⁿbⁿ | n ≥ 0 }
 
 Essa linguagem compreende todas as cadeias compostas por uma sequência de `a`’s seguidos pela mesma quantidade de `b`’s, e é um exemplo clássico de linguagem não regular e não livre de contexto, que exige um modelo mais robusto como a Máquina de Turing para ser reconhecida.
 
