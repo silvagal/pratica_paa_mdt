@@ -40,9 +40,11 @@ A MTD funciona por marcação:
    cd simulador-mt-anbn
 
 2. Execute o script Python:
-
+  ```bash
   python simulador_mt.py
-  Você verá a saída com os resultados para várias palavras de teste, como por exemplo:
+
+ ```markdown
+ Você verá a saída com os resultados para várias palavras de teste, como por exemplo:
 
 
          → ACEITA
