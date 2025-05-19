@@ -31,13 +31,9 @@ A MTD funciona por marcação:
 ---
 
 ## Teste
- Você verá a saída com os resultados para várias palavras de teste, como por exemplo:
 
+O simulador foi testado com as seguintes entradas:
 
-(vazio)         → ACEITA
-ab              → ACEITA
-aabb            → ACEITA
-aaabbb          → ACEITA
-aabbb           → REJEITADA
-abb             → REJEITADA
-aab             → REJEITADA
+Palavras aceitas: "", ab, aabb, aaabbb
+
+Palavras rejeitadas: aabbb, abb, aab
