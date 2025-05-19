@@ -32,25 +32,14 @@ A MTD funciona por marcação:
 
 ---
 
-## Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/simulador-mt-anbn.git
-   cd simulador-mt-anbn
-
-2. Execute o script Python:
-  ```bash
-  python simulador_mt.py
-
- ```markdown
+## Teste
  Você verá a saída com os resultados para várias palavras de teste, como por exemplo:
 
 
-         → ACEITA
-ab       → ACEITA
-aabb     → ACEITA
-aaabbb   → ACEITA
-aabbb    → REJEITADA
-abb      → REJEITADA
-aab      → REJEITADA
+(vazio)         → ACEITA
+ab              → ACEITA
+aabb            → ACEITA
+aaabbb          → ACEITA
+aabbb           → REJEITADA
+abb             → REJEITADA
+aab             → REJEITADA
